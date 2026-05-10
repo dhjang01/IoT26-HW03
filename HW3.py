@@ -1,5 +1,3 @@
-# project updates at: https://nostarch.com/RaspberryPiProject
-
 # import the necessary packages
 from gpiozero import Button, MotionSensor
 from picamera2 import Picamera2
