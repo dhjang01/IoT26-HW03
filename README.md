@@ -102,6 +102,10 @@ This confirms that the Raspberry Pi detected motion and captured photos successf
 
 ### Raspberry Pi Motion Sensor and Camera Result
 
+
+https://github.com/user-attachments/assets/f986f0a5-752d-492b-a026-b87f1b36f597
+
+
 ![HW3 Result](hw3_result.png)
 
 ### Captured Photo
