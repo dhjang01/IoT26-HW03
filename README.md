@@ -106,7 +106,7 @@ This confirms that the Raspberry Pi detected motion and captured photos successf
 
 ### Captured Photo
 
-![HW3 Captured Photo](hw3_captured_photo.png)
+![HW3 Captured Photo](hw3_captured_photo.jpg)
 
 ## 8. Members
 
