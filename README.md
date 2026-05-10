@@ -6,7 +6,7 @@
 
 The objective of this assignment is to use Raspberry Pi to detect motion and take photos automatically.
 
-In this project, a PIR motion sensor detects movement. When motion is detected, the Raspberry Pi camera captures a photo and saves it as an image file.
+In this project, a PIR motion sensor is used to detect movement. When motion is detected, the Raspberry Pi camera captures a photo and saves it as an image file.
 
 ## 2. Components
 
@@ -78,11 +78,11 @@ python3 HW3.py
 
 ## 6. Result
 
-The PIR motion sensor detects movement through GPIO4.
+The Raspberry Pi successfully detects motion using the PIR motion sensor connected to GPIO4.
 
 When motion is detected, the Raspberry Pi camera captures a photo and saves it as an image file.
 
-The terminal prints the message:
+The terminal prints the following message whenever a photo is captured:
 
 ```text
 A photo has been taken
@@ -94,19 +94,19 @@ This confirms that the Raspberry Pi detected motion and captured photos successf
 
 ### Source Code Screenshot
 
-![HW3 Code](images/hw3_code.png)
+![HW3 Code](HW3-2.png)
 
 ### Running Program Screenshot
 
-![HW3 Run](images/hw3_run.png)
+![HW3 Run](HW3-1.png)
 
-### Raspberry Pi Motion Sensor and Camera Setup
+### Raspberry Pi Motion Sensor and Camera Result
 
-![HW3 Result](images/hw3_result.jpg)
+![HW3 Result](hw3_result.png)
 
 ### Captured Photo
 
-![HW3 Captured Photo](images/hw3_captured_photo.jpg)
+![HW3 Captured Photo](hw3_captured_photo.png)
 
 ## 8. Members
 
